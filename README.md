@@ -4,17 +4,17 @@ Kaggle Dog Cat Adoption Challenge
 ###### What you will need :
 
 - A Python machine learning environment (see [here](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7))
-- Administrator rights
+- Ideas and/or curiosity
 
-Hello! This post will aim at installing Python for Machine Learning with Keras on Windows 7.
-At the end of this tutorial you will have installed the following:
-- Python 3.5 (64-bit)
-- Pip
-- Tensorflow
-- Keras
-- Jupyter notebook
+Hello! This respository will aim at explaining a baseline submission to a Kaggle [competition](https://www.kaggle.com/c/petfinder-adoption-prediction).
+This competition is about predicting the potential adoption of an animal based on its profile on petfinder.my website.
 
-Start a notebook with the command
+In this baseline submission we will:
+- Download and explore the dataset
+- Try to run a simple CNN on dog and cat pictures
+- Evaluate our predictions on the test set
+
+Let's start!
 >jupyter notebook
 
 The jupyter notebook should open in your web browser. If it doesn't, copy paste the link in terminal that looks like
