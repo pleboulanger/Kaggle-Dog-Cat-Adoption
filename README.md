@@ -3,7 +3,7 @@ Kaggle Dog Cat Adoption Challenge
 
 ###### What you will need :
 
-- A Python machine learning environment (see here)
+- A Python machine learning environment (see [here](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7))
 - Administrator rights
 
 Hello! This post will aim at installing Python for Machine Learning with Keras on Windows 7.
